@@ -104,7 +104,7 @@ return [
         'language' => 'ja',
     ],
     'theme' => [
-        'name' => 'tomos-journal',
+        'name' => 'tomos-magazine',
     ],
     'paths' => [
         'content_dir' => __DIR__ . '/content',
