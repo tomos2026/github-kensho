@@ -104,7 +104,7 @@ return [
         'language' => 'ja',
     ],
     'theme' => [
-        'name' => 'tomos-minimal',
+        'name' => 'tomos-album',
     ],
     'paths' => [
         'content_dir' => __DIR__ . '/content',
